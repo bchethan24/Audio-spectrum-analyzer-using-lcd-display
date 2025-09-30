@@ -7,7 +7,6 @@ The system captures audio input via an AUX cable, processes it, and displays the
 
 ## 📚 Project Overview
 The aim of this project is to **visualize audio amplitude/spectrum** using an embedded system.  
-It was done as part of the **Microprocessor and Microcontrollers Practice** course at **IIITDM Kurnool**.
 
 ---
 
