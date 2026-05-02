@@ -55,7 +55,7 @@ The aim of this project is to **visualize audio amplitude/spectrum** using an em
 - **Arduino IDE** for uploading the program
 - Libraries used:
   - `LiquidCrystal.h` (for controlling the LCD)
-  - *(Optional)* FFT library if you extend it to show frequency bins
+  - FFT library if you extend it to show frequency bins
 
 ---
 
